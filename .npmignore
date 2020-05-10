@@ -1,8 +1,8 @@
 /example
-# /src
+/src
 /.idea
 /node_modules
-# /gifs
+/gifs
 .watchmanconfig
 tsconfig.json
 tslint.json
