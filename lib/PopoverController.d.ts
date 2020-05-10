@@ -28,5 +28,5 @@ export declare class PopoverController extends React.PureComponent<Props, State>
     private openPopover;
     private onTouchableMeasured;
     private closePopover;
-    render(): React.ReactElement<any, string | ((props: any) => React.ReactElement<any, string | any | (new (props: any) => React.Component<any, any, any>)> | null) | (new (props: any) => React.Component<any, any, any>)>;
+    render(): React.ReactElement<any>;
 }
